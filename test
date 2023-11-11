@@ -1,1 +1,13 @@
-<head>
+<!DOCTYPE html>
+<html>
+  <head>
+  <meta charset="utf-8">
+    <title>Structure fichier HTML</title>
+    <link href="style.css" rel="stylesheet">
+    </head>
+<body>
+  <div>
+  <h1 align="center">Le Web</h1>
+  <h2>Le language CSS</h2>
+  <p> Il permet de definir des feuilles de style dans un fichier distinct du document HTML.
+  </p>
